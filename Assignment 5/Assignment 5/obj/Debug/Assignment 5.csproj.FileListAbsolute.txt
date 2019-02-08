@@ -1,0 +1,7 @@
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojAssemblyReference.cache
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\tufel\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
