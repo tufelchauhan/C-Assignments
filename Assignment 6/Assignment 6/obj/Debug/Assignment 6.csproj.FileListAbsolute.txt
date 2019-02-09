@@ -1,0 +1,7 @@
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csprojAssemblyReference.cache
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\tufel\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
